@@ -1,2 +1,0 @@
-# kaito-hub
-KaitoHUB
